@@ -459,6 +459,13 @@ nav
     color: whitesmoke;
 
 }
+.form form textarea
+{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: gray;
+    color: whitesmoke;
+}
 .form form button
 {
      padding: 10px;
@@ -479,6 +486,11 @@ input::placeholder
     color: whitesmoke;
 
     
+}
+textarea::placeholder
+{
+    color: whitesmoke;
+
 }
 footer
 {
